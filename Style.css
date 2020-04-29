@@ -1,0 +1,41 @@
+body 
+{
+	background-color: #CCC;
+	margin: 0;
+	padding: 0;
+}
+#page 
+{
+	position: relative;
+	width: 900px;
+	background-color: #eee;
+	margin: 0 auto;
+}
+#Header
+{
+	border-style: solid;
+	border-color: red;
+	height: 100px;
+}
+#Menu 
+{
+	position: sticky; 
+	top: 0px;
+	border-style: solid;
+	background-color; #000;
+	color: #eee;
+}
+#Content 
+{
+	border-style: solid;
+	padding-bottom: 1000px;
+}
+#Footer
+{
+	position:fixed;
+	bottom: 0px;
+	border-style:solid;
+	width: 900px;
+	background-color: #DDD;
+	
+}
